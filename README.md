@@ -15,7 +15,7 @@ Split the numbers on the ; character, one number per line.
 sed '/s/\;/\n/g' split-me.txt
 
 23. Print the numbers 1 to 100 separated by spaces.
-echo {1..100}
+24. echo {1..100}
 
 24. This challenge has text files (with a .txt extension) that contain the phrase "challenges are difficult". Delete this phrase from all text files recursively.
 Note that some files are in subdirectories so you will need to search for them.
